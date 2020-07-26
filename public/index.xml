@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
+
+<webpage>
+ 
+  <logo>logo.svg</logo>
+  <company>Best News</company>
+  
+  <icons>
+    <icon>search.svg</icon>
+    <title>search</title>
+  </icons>
+  <icons>  
+    <icon>login.svg</icon>
+    <title>login</title>
+  </icons>
+  <icons>
+    <icon>settings.svg</icon>
+    <title>settings</title>
+  </icons>
+  <icons>
+    <icon>language.svg</icon>
+    <title>language</title>
+  </icons>
+  
+  <navigation>
+    <page>Home</page>
+    <page>Canada</page>
+    <page>World</page>
+    <page>Politics</page>
+    <page>Business</page>
+    <page>Lifestyle</page>
+    <page>Health</page>
+    <page>Sport</page>
+  </navigation>
+  
+  <title>Best Ever News in The World</title>
+  
+  <menu>
+    <partner>
+      <logo>cbc.svg</logo>
+      <link_title>CBC News</link_title>
+      <link_url>https://www.cbc.ca/news</link_url>
+    </partner>
+    <partner>
+      <logo>globalnews.svg</logo>
+      <link_title>Gloval News</link_title>
+      <link_url>https://globalnews.ca/</link_url>
+    </partner>
+    <partner>
+      <logo>ctvnews.svg</logo>
+      <link_title>CTV News</link_title>
+      <link_url>https://www.ctvnews.ca/</link_url>
+    </partner>
+    <partner>
+      <logo>google.svg</logo>
+      <link_title>Google News</link_title>
+      <link_url>https://news.google.com/</link_url>
+    </partner>
+  </menu>
+  
+  <content>
+    <text>
+      We provide the best, the latest, and the most actual news from all around the world. Enjoy exploring the world with us and stay informed at any time and at any place.
+    </text>
+    <text>
+      We respect your trust and believe that this site is the best place to get some cool news that you can share with your friends later. However, if you don't like this awesome site, you always have a way to escape.
+    </text>
+    <cta>Escape</cta>
+    <cta_link>https://www.cbc.ca/news</cta_link>
+  </content>
+  
+  <news>
+    <article>
+      <image>article1.jpg</image>
+      <title>30 Countries Americans Are Not Welcome In</title>
+      <intro>With an American passport, you can visit almost any country in the world. However, according to the latest Pew Pesearch Center reports, you should hold on from waving with US passport ...</intro>
+      <article_url>https://unpuzzlefinance.com/countries-where-americans-not-welcome/2/</article_url> 
+      <pablished numeric="2020-01-09">January , 2020</pablished>
+    </article>
+    <article>
+      <image>article2.jpg</image>
+      <title>Woman Lies About Why She's Late for Work, but is Caught in Epic Photoshop Fail</title>
+      <intro>A woman attempted to lie to her boss about why she was running late for work, but it didn't quite go over as smoothly as she'd hoped. She sent a text to her boss, but was quickly caught out ...</intro>
+      <article_url>https://www.mirror.co.uk/news/weird-news/woman-lies-shes-late-work-21258965</article_url>
+      <pablished numeric="2020-01-05">January 5, 2020</pablished>
+    </article>
+    <article>
+      <image>article3.jpg</image>
+      <title>Police Responding to Distress Call Just See Parrot Screaming "Let Me Out!"</title>
+      <intro>The bird's cries of "Let me out! Ohhh! Ohhh! Ohhh!" were so lifelike that a neighbor called the police, concerned that a woman was actually in trouble. Police in Florida got quite the surprise when ...</intro>
+      <article_url>https://www.huffpost.com/entry/rambo-parrot-florida-let-me-out_n_5e136109e4b0843d36167007</article_url>
+      <pablished numeric="2020-01-06">January 6, 2020</pablished>
+    </article>
+    <article>
+      <image>article4.jpg</image>
+      <title>Elephant climbs 5-foot wall to steal mangoes from lodge</title>
+      <intro>An elephant in a Sambian national park was caught in camera climbing over a wall to steal some mangoes from a safari lodge. Workers said the elephant stole some mangoes from the lodge before climbing back out ...</intro>
+      <article_url>https://www.upi.com/Odd_News/2020/01/13/Elephant-climbs-5-foot-wall-to-steal-mangoes-from-lodge/3411578953055/?sl=15</article_url>
+      <pablished numeric="2020-01-13">January 13, 2020</pablished>
+    </article>
+    <article>
+      <image>article5.jpg</image>
+      <title>If You Ask a Stupid Question at This Diner, They'll Charge You For It</title>
+      <intro>Being asked a stupid question, like a truly stupid question, is one of the most annoying wasted of time. That is a fact. Sorry, I don't make the rules. Although it hasn't become socially acceptable or a law ...</intro>
+      <article_url>https://www.delish.com/food-news/a30459226/stupid-question-diner/</article_url>
+      <pablished numeric="2020-01-04">January 4, 2020</pablished>
+    </article>
+    <article>
+      <image>article6.jpg</image>
+      <title>Star Wars Fan 3D Prints a Bulletproof Stormtrooper Costume</title>
+      <intro>A dedicated Star Wars fan in Utah used a 3D printer to make his own Stormtrooper costume with one significant improvement - it's bulletproof. Rasmusson tested out his bulletproofing at a shooting range and found that ...</intro>
+      <article_url>https://www.upi.com/Odd_News/2020/01/13/Star-Wars-fan-3D-prints-a-bulletproof-Stormtrooper-costume/4741578951101/?sl=16</article_url>
+      <pablished numeric="2020-01-13">January 13, 2020</pablished>
+    </article>
+  </news>
+  
+  <logos>
+    <logo>cbc.svg</logo>
+    <logo>ctv.svg</logo>
+    <logo>globalnews.svg</logo>
+    <logo>google.svg</logo>
+  </logos>
+  
+</webpage>
